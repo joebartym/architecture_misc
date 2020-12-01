@@ -18,6 +18,6 @@ Les points à noter:
   
   
   -j'ai bien fais l'algorythme de bouth comme je l'avais mentionné en cours. je l'ai repris ici.
-  -
+ 
   
   
